@@ -1,0 +1,686 @@
+[
+  {
+    "Group": "By week",
+    "Indicator": "Total Deaths",
+    Deaths: "1,889",
+    "Deaths from All Causes": "466,306",
+    "Percent of Expected Deaths": 0.81,
+    "All Pneumonia Deaths (J12.0-J18.9)": "26,307",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 773
+  },
+  {
+    "Group": "By week",
+    "Indicator": "2/1/2020",
+    Deaths: 0,
+    "Deaths from All Causes": "56,099",
+    "Percent of Expected Deaths": 0.95,
+    "All Pneumonia Deaths (J12.0-J18.9)": "2,993",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By week",
+    "Indicator": "2/8/2020",
+    Deaths: 0,
+    "Deaths from All Causes": "56,263",
+    "Percent of Expected Deaths": 0.94,
+    "All Pneumonia Deaths (J12.0-J18.9)": "2,986",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By week",
+    "Indicator": "2/15/2020",
+    Deaths: 0,
+    "Deaths from All Causes": "54,545",
+    "Percent of Expected Deaths": 0.93,
+    "All Pneumonia Deaths (J12.0-J18.9)": "2,868",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By week",
+    "Indicator": "2/22/2020",
+    Deaths: 0,
+    "Deaths from All Causes": "54,139",
+    "Percent of Expected Deaths": 0.93,
+    "All Pneumonia Deaths (J12.0-J18.9)": "2,841",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By week",
+    "Indicator": "2/29/2020",
+    Deaths: 5,
+    "Deaths from All Causes": "53,913",
+    "Percent of Expected Deaths": 0.94,
+    "All Pneumonia Deaths (J12.0-J18.9)": "2,845",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 2
+  },
+  {
+    "Group": "By week",
+    "Indicator": "3/7/2020",
+    Deaths: 18,
+    "Deaths from All Causes": "52,879",
+    "Percent of Expected Deaths": 0.91,
+    "All Pneumonia Deaths (J12.0-J18.9)": "2,853",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 7
+  },
+  {
+    "Group": "By week",
+    "Indicator": "3/14/2020",
+    Deaths: 42,
+    "Deaths from All Causes": "49,399",
+    "Percent of Expected Deaths": 0.86,
+    "All Pneumonia Deaths (J12.0-J18.9)": "2,789",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 18
+  },
+  {
+    "Group": "By week",
+    "Indicator": "3/21/2020",
+    Deaths: 337,
+    "Deaths from All Causes": "45,203",
+    "Percent of Expected Deaths": 0.8,
+    "All Pneumonia Deaths (J12.0-J18.9)": "2,823",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 136
+  },
+  {
+    "Group": "By week",
+    "Indicator": "3/28/2020",
+    Deaths: "1,072",
+    "Deaths from All Causes": "34,721",
+    "Percent of Expected Deaths": 0.62,
+    "All Pneumonia Deaths (J12.0-J18.9)": "2,533",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 425
+  },
+  {
+    "Group": "By week",
+    "Indicator": "4/4/2020",
+    Deaths: 415,
+    "Deaths from All Causes": "9,145",
+    "Percent of Expected Deaths": 0.16,
+    "All Pneumonia Deaths (J12.0-J18.9)": 776,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 185
+  },
+  {
+    "Group": "By age",
+    "Indicator": "All ages",
+    Deaths: "1,889",
+    "Deaths from All Causes": "466,306",
+    "Percent of Expected Deaths": 0.81,
+    "All Pneumonia Deaths (J12.0-J18.9)": "26,307",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 773
+  },
+  {
+    "Group": "By age",
+    "Indicator": "Under 1 year",
+    Deaths: 0,
+    "Deaths from All Causes": "2,472",
+    "Percent of Expected Deaths": 0.59,
+    "All Pneumonia Deaths (J12.0-J18.9)": 19,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By age",
+    "Indicator": "1-4 years",
+    Deaths: 1,
+    "Deaths from All Causes": 511,
+    "Percent of Expected Deaths": 0.7,
+    "All Pneumonia Deaths (J12.0-J18.9)": 24,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 1
+  },
+  {
+    "Group": "By age",
+    "Indicator": "5-14 years",
+    Deaths: 0,
+    "Deaths from All Causes": 733,
+    "Percent of Expected Deaths": 0.66,
+    "All Pneumonia Deaths (J12.0-J18.9)": 26,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By age",
+    "Indicator": "15-24 years",
+    Deaths: 0,
+    "Deaths from All Causes": "4,179",
+    "Percent of Expected Deaths": 0.73,
+    "All Pneumonia Deaths (J12.0-J18.9)": 78,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By age",
+    "Indicator": "25-34 years",
+    Deaths: 14,
+    "Deaths from All Causes": "8,752",
+    "Percent of Expected Deaths": 0.78,
+    "All Pneumonia Deaths (J12.0-J18.9)": 197,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 5
+  },
+  {
+    "Group": "By age",
+    "Indicator": "35-44 years",
+    Deaths: 50,
+    "Deaths from All Causes": "12,576",
+    "Percent of Expected Deaths": 0.8,
+    "All Pneumonia Deaths (J12.0-J18.9)": 417,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 12
+  },
+  {
+    "Group": "By age",
+    "Indicator": "45-54 years",
+    Deaths: 113,
+    "Deaths from All Causes": "24,238",
+    "Percent of Expected Deaths": 0.73,
+    "All Pneumonia Deaths (J12.0-J18.9)": "1,048",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 42
+  },
+  {
+    "Group": "By age",
+    "Indicator": "55-64 years",
+    Deaths: 218,
+    "Deaths from All Causes": "58,824",
+    "Percent of Expected Deaths": 0.78,
+    "All Pneumonia Deaths (J12.0-J18.9)": "2,985",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 78
+  },
+  {
+    "Group": "By age",
+    "Indicator": "65-74 years",
+    Deaths: 439,
+    "Deaths from All Causes": "91,331",
+    "Percent of Expected Deaths": 0.83,
+    "All Pneumonia Deaths (J12.0-J18.9)": "5,093",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 147
+  },
+  {
+    "Group": "By age",
+    "Indicator": "75-84 years",
+    Deaths: 526,
+    "Deaths from All Causes": "115,511",
+    "Percent of Expected Deaths": 0.84,
+    "All Pneumonia Deaths (J12.0-J18.9)": "7,031",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 251
+  },
+  {
+    "Group": "By age",
+    "Indicator": "85 years and over",
+    Deaths: 528,
+    "Deaths from All Causes": "147,179",
+    "Percent of Expected Deaths": 0.8,
+    "All Pneumonia Deaths (J12.0-J18.9)": "9,389",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 237
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Total US",
+    Deaths: "1,889",
+    "Deaths from All Causes": "466,306",
+    "Percent of Expected Deaths": 0.81,
+    "All Pneumonia Deaths (J12.0-J18.9)": "26,307",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 773
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Alabama",
+    Deaths: 2,
+    "Deaths from All Causes": "8,452",
+    "Percent of Expected Deaths": 0.8,
+    "All Pneumonia Deaths (J12.0-J18.9)": 421,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 1
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Alaska",
+    Deaths: 0,
+    "Deaths from All Causes": 589,
+    "Percent of Expected Deaths": 0.7,
+    "All Pneumonia Deaths (J12.0-J18.9)": 23,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Arizona",
+    Deaths: 0,
+    "Deaths from All Causes": "10,540",
+    "Percent of Expected Deaths": 0.86,
+    "All Pneumonia Deaths (J12.0-J18.9)": 523,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Arkansas",
+    Deaths: 0,
+    "Deaths from All Causes": "5,680",
+    "Percent of Expected Deaths": 0.88,
+    "All Pneumonia Deaths (J12.0-J18.9)": 290,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "California",
+    Deaths: 90,
+    "Deaths from All Causes": "48,816",
+    "Percent of Expected Deaths": 0.88,
+    "All Pneumonia Deaths (J12.0-J18.9)": "3,266",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 44
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Colorado",
+    Deaths: 21,
+    "Deaths from All Causes": "7,172",
+    "Percent of Expected Deaths": 0.9,
+    "All Pneumonia Deaths (J12.0-J18.9)": 341,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 11
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Connecticut",
+    Deaths: 0,
+    "Deaths from All Causes": 0,
+    "Percent of Expected Deaths": 0,
+    "All Pneumonia Deaths (J12.0-J18.9)": 0,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Delaware",
+    Deaths: 0,
+    "Deaths from All Causes": "1,295",
+    "Percent of Expected Deaths": 0.69,
+    "All Pneumonia Deaths (J12.0-J18.9)": 56,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "District of Columbia",
+    Deaths: 1,
+    "Deaths from All Causes": 961,
+    "Percent of Expected Deaths": 0.79,
+    "All Pneumonia Deaths (J12.0-J18.9)": 61,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Florida",
+    Deaths: 51,
+    "Deaths from All Causes": "38,511",
+    "Percent of Expected Deaths": 0.9,
+    "All Pneumonia Deaths (J12.0-J18.9)": "1,966",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 17
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Georgia",
+    Deaths: 21,
+    "Deaths from All Causes": "13,164",
+    "Percent of Expected Deaths": 0.78,
+    "All Pneumonia Deaths (J12.0-J18.9)": 597,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 10
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Hawaii",
+    Deaths: 0,
+    "Deaths from All Causes": "1,946",
+    "Percent of Expected Deaths": 0.82,
+    "All Pneumonia Deaths (J12.0-J18.9)": 120,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Idaho",
+    Deaths: 3,
+    "Deaths from All Causes": "2,550",
+    "Percent of Expected Deaths": 0.89,
+    "All Pneumonia Deaths (J12.0-J18.9)": 113,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 1
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Illinois",
+    Deaths: 64,
+    "Deaths from All Causes": "19,429",
+    "Percent of Expected Deaths": 0.9,
+    "All Pneumonia Deaths (J12.0-J18.9)": "1,233",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 36
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Indiana",
+    Deaths: 0,
+    "Deaths from All Causes": "10,751",
+    "Percent of Expected Deaths": 0.8,
+    "All Pneumonia Deaths (J12.0-J18.9)": 605,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Iowa",
+    Deaths: 1,
+    "Deaths from All Causes": "5,240",
+    "Percent of Expected Deaths": 0.85,
+    "All Pneumonia Deaths (J12.0-J18.9)": 309,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Kansas",
+    Deaths: 3,
+    "Deaths from All Causes": "4,665",
+    "Percent of Expected Deaths": 0.85,
+    "All Pneumonia Deaths (J12.0-J18.9)": 252,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 1
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Kentucky",
+    Deaths: 3,
+    "Deaths from All Causes": "7,149",
+    "Percent of Expected Deaths": 0.73,
+    "All Pneumonia Deaths (J12.0-J18.9)": 458,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 1
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Louisiana",
+    Deaths: 48,
+    "Deaths from All Causes": "7,021",
+    "Percent of Expected Deaths": 0.76,
+    "All Pneumonia Deaths (J12.0-J18.9)": 269,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 21
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Maine",
+    Deaths: 3,
+    "Deaths from All Causes": "2,768",
+    "Percent of Expected Deaths": 0.94,
+    "All Pneumonia Deaths (J12.0-J18.9)": 192,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 2
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Maryland",
+    Deaths: 5,
+    "Deaths from All Causes": "9,117",
+    "Percent of Expected Deaths": 0.9,
+    "All Pneumonia Deaths (J12.0-J18.9)": 530,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Massachusetts",
+    Deaths: 6,
+    "Deaths from All Causes": "10,695",
+    "Percent of Expected Deaths": 0.87,
+    "All Pneumonia Deaths (J12.0-J18.9)": 734,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 3
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Michigan",
+    Deaths: 11,
+    "Deaths from All Causes": "16,894",
+    "Percent of Expected Deaths": 0.86,
+    "All Pneumonia Deaths (J12.0-J18.9)": 840,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 1
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Minnesota",
+    Deaths: 6,
+    "Deaths from All Causes": "7,943",
+    "Percent of Expected Deaths": 0.9,
+    "All Pneumonia Deaths (J12.0-J18.9)": 422,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 2
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Mississippi",
+    Deaths: 3,
+    "Deaths from All Causes": "5,526",
+    "Percent of Expected Deaths": 0.86,
+    "All Pneumonia Deaths (J12.0-J18.9)": 362,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Missouri",
+    Deaths: 7,
+    "Deaths from All Causes": "10,372",
+    "Percent of Expected Deaths": 0.79,
+    "All Pneumonia Deaths (J12.0-J18.9)": 506,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 5
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Montana",
+    Deaths: 0,
+    "Deaths from All Causes": "1,780",
+    "Percent of Expected Deaths": 0.85,
+    "All Pneumonia Deaths (J12.0-J18.9)": 82,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Nebraska",
+    Deaths: 0,
+    "Deaths from All Causes": "2,847",
+    "Percent of Expected Deaths": 0.82,
+    "All Pneumonia Deaths (J12.0-J18.9)": 184,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Nevada",
+    Deaths: 3,
+    "Deaths from All Causes": "4,458",
+    "Percent of Expected Deaths": 0.86,
+    "All Pneumonia Deaths (J12.0-J18.9)": 215,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 2
+  },
+  {
+    "Group": "By state",
+    "Indicator": "New Hampshire",
+    Deaths: 3,
+    "Deaths from All Causes": "2,322",
+    "Percent of Expected Deaths": 0.92,
+    "All Pneumonia Deaths (J12.0-J18.9)": 116,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 1
+  },
+  {
+    "Group": "By state",
+    "Indicator": "New Jersey",
+    Deaths: 43,
+    "Deaths from All Causes": "13,537",
+    "Percent of Expected Deaths": 0.89,
+    "All Pneumonia Deaths (J12.0-J18.9)": 723,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 24
+  },
+  {
+    "Group": "By state",
+    "Indicator": "New Mexico",
+    Deaths: 0,
+    "Deaths from All Causes": "2,874",
+    "Percent of Expected Deaths": 0.71,
+    "All Pneumonia Deaths (J12.0-J18.9)": 161,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "New York",
+    Deaths: 212,
+    "Deaths from All Causes": "19,188",
+    "Percent of Expected Deaths": 0.94,
+    "All Pneumonia Deaths (J12.0-J18.9)": "1,490",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 116
+  },
+  {
+    "Group": "By state",
+    "Indicator": "New York City",
+    Deaths: "1,073",
+    "Deaths from All Causes": "12,388",
+    "Percent of Expected Deaths": 1.13,
+    "All Pneumonia Deaths (J12.0-J18.9)": "1,316",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 388
+  },
+  {
+    "Group": "By state",
+    "Indicator": "North Carolina",
+    Deaths: 0,
+    "Deaths from All Causes": "3,060",
+    "Percent of Expected Deaths": 0.16,
+    "All Pneumonia Deaths (J12.0-J18.9)": 151,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "North Dakota",
+    Deaths: 0,
+    "Deaths from All Causes": "1,205",
+    "Percent of Expected Deaths": 0.85,
+    "All Pneumonia Deaths (J12.0-J18.9)": 86,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Ohio",
+    Deaths: 0,
+    "Deaths from All Causes": "16,978",
+    "Percent of Expected Deaths": 0.68,
+    "All Pneumonia Deaths (J12.0-J18.9)": 676,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Oklahoma",
+    Deaths: 3,
+    "Deaths from All Causes": "6,113",
+    "Percent of Expected Deaths": 0.75,
+    "All Pneumonia Deaths (J12.0-J18.9)": 383,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Oregon",
+    Deaths: 10,
+    "Deaths from All Causes": "5,708",
+    "Percent of Expected Deaths": 0.78,
+    "All Pneumonia Deaths (J12.0-J18.9)": 241,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 7
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Pennsylvania",
+    Deaths: 19,
+    "Deaths from All Causes": "18,182",
+    "Percent of Expected Deaths": 0.65,
+    "All Pneumonia Deaths (J12.0-J18.9)": 913,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 10
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Rhode Island",
+    Deaths: 0,
+    "Deaths from All Causes": "1,546",
+    "Percent of Expected Deaths": 0.73,
+    "All Pneumonia Deaths (J12.0-J18.9)": 53,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "South Carolina",
+    Deaths: 5,
+    "Deaths from All Causes": "8,763",
+    "Percent of Expected Deaths": 0.88,
+    "All Pneumonia Deaths (J12.0-J18.9)": 393,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 2
+  },
+  {
+    "Group": "By state",
+    "Indicator": "South Dakota",
+    Deaths: 1,
+    "Deaths from All Causes": "1,283",
+    "Percent of Expected Deaths": 0.77,
+    "All Pneumonia Deaths (J12.0-J18.9)": 70,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Tennessee",
+    Deaths: 1,
+    "Deaths from All Causes": "12,812",
+    "Percent of Expected Deaths": 0.86,
+    "All Pneumonia Deaths (J12.0-J18.9)": 737,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 1
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Texas",
+    Deaths: 6,
+    "Deaths from All Causes": "34,148",
+    "Percent of Expected Deaths": 0.83,
+    "All Pneumonia Deaths (J12.0-J18.9)": "1,928",
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 2
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Utah",
+    Deaths: 2,
+    "Deaths from All Causes": "3,446",
+    "Percent of Expected Deaths": 0.92,
+    "All Pneumonia Deaths (J12.0-J18.9)": 171,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Vermont",
+    Deaths: 1,
+    "Deaths from All Causes": "1,072",
+    "Percent of Expected Deaths": 0.92,
+    "All Pneumonia Deaths (J12.0-J18.9)": 49,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 1
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Virginia",
+    Deaths: 6,
+    "Deaths from All Causes": "12,195",
+    "Percent of Expected Deaths": 0.88,
+    "All Pneumonia Deaths (J12.0-J18.9)": 485,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 2
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Washington",
+    Deaths: 151,
+    "Deaths from All Causes": "10,278",
+    "Percent of Expected Deaths": 0.88,
+    "All Pneumonia Deaths (J12.0-J18.9)": 611,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 61
+  },
+  {
+    "Group": "By state",
+    "Indicator": "West Virginia",
+    Deaths: 0,
+    "Deaths from All Causes": "2,633",
+    "Percent of Expected Deaths": 0.57,
+    "All Pneumonia Deaths (J12.0-J18.9)": 145,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Wisconsin",
+    Deaths: 1,
+    "Deaths from All Causes": "9,481",
+    "Percent of Expected Deaths": 0.89,
+    "All Pneumonia Deaths (J12.0-J18.9)": 396,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  },
+  {
+    "Group": "By state",
+    "Indicator": "Wyoming",
+    Deaths: 0,
+    "Deaths from All Causes": 763,
+    "Percent of Expected Deaths": 0.84,
+    "All Pneumonia Deaths (J12.0-J18.9)": 43,
+    "Deaths with Pneumonia and COVID-19 (J12.0-J18.9 and U07.1)": 0
+  }
+]

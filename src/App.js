@@ -1,25 +1,27 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import RenderLineChart from  './chart';
+import DeathData from './DeathData';
+import RenderRadialChart from './AgeRadialChart.js';
+import AgeData from './AgeData';
+import { Grid } from '@material-ui/core'
 
 function App() {
+  console.log(AgeData())
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <section>
+      <Grid>
+    <div style={{height: 500}}>
+      <RenderLineChart data={DeathData()}/>
     </div>
+    
+    <div style={{height: 700, width: 700}}>
+      <RenderRadialChart data={AgeData()}/>
+    </div>
+    </Grid>
+    </section>
+   
+
   );
 }
 
