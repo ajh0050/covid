@@ -10,9 +10,15 @@ import { DeathDemographics } from './DeathDemographics.js';
 //how do I add a new key and unique value pair to each object in the dataset? example "color": "#8884d8" but with different colors for each object?
 // index example that was implemented already
 
-const colorMerge = ["#226969", "#2E4475", "#403078", "#403078", "#AF3838", "#AF5A38", "#AF7338", "#FFDD00", "#98AF39", "#439831","#0A311E" ]
 
-const ReverseOrder = DeathDemographics.reverse();
-const AgeData = () => ReverseOrder.map((rowOfData, index)=>({"name": rowOfData.Indicator, "number of deaths": rowOfData.CovidDeaths, "fill": colorMerge[index]}));
+const colorMerge = ["#226969", "#2E4475", "#403078", "#403078", "#AF3838", "#AF5A38", "#AF7338", "#FFDD00", "#98AF39", "#439831","#0A311E","#1C0D30" ]
+
+const reverseOrder = DeathDemographics.reverse();
+const byAgeData = reverseOrder.filter((filterObjects)=> (filterObjects.Group == 'By age'));
+const popTotal = byAgeData.pop();
+popTotal["All COVID-19 Deaths (U07.1)"] = parseInt((popTotal["All COVID-19 Deaths (U07.1)"]).replace(",",""));
+byAgeData.unshift(popTotal);
+
+const AgeData = () => byAgeData.map((rowOfData, index)=>({"name": rowOfData.Indicator, "number of deaths": rowOfData["All COVID-19 Deaths (U07.1)"], "fill": colorMerge[index]}));
 
 export default AgeData;
